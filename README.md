@@ -1,1 +1,1 @@
-# patron-de-conception-
+# patron-de-conception
